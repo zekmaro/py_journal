@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Database
+*.sqlite3
+
+# Local environment variables
+.env
+
+# Django static and media files
+/static/
+/media/
+
+# Ignore migrations folder that only contain "__init__.py"
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
