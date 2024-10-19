@@ -22,3 +22,4 @@ __pycache__/
 
 # Ignore VS Code settings (if using VS Code)
 .vscode/
+py_journal_env
